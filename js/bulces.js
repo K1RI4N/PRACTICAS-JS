@@ -3,7 +3,7 @@
 // for repite una accion una cantidad determinada de veces 
 
 for(let i = 0; i<5; i++){ // exactamente igual que en C (puedo declarar el indice fuera del bucle)
-    console.log(`hola ${i}`) // interpolacion (me dice el valor del indice)
+    console.log(`hola ${i}`) // interpolacion (me dice el valor del indice. posicion del bucle)
     console.log ("hola")
 }
 
